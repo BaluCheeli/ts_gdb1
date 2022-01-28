@@ -1,0 +1,41 @@
+start
+set history filename 3p.txt
+set history save on
+tui enable
+i 10
+b 10
+watch i
+start
+run
+n
+l
+list
+n
+n
+6
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+up
+down
+up
+up
+up
+down
+q

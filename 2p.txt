@@ -1,0 +1,20 @@
+start
+tui enable
+b 10
+set history filename 2p.txt
+set history save on
+n
+watch n
+n
+down
+up
+n
+n
+n
+c
+c
+i b
+ disable 10
+up
+down
+q

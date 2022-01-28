@@ -1,0 +1,89 @@
+tui enable
+start
+watch i
+b 8
+n
+set history filename 1p.txt
+set history save on
+n
+i b
+n
+n
+n
+s
+print n
+n
+start
+run
+i b
+run
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+watch n
+n
+n
+n
+n
+n
+run
+i b
+ watch i
+n
+n
+n
+n
+print m
+print n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+s
+s
+s
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+q
